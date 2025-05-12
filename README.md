@@ -1,5 +1,7 @@
 # INFILTRE 🕵️‍♂️🔐
 
+![INFILTRE Banner](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200_webp/e6737c156477347.637952f790196.gif)
+
 INFILTRE is a powerful Python tool for discovering exposed sensitive files and misconfigurations on web servers.  
 It scans for publicly accessible secrets like API keys, database credentials, and configuration files.  
 Developed by Cipher Squid — use it responsibly! ☠️
