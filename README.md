@@ -108,8 +108,3 @@ GitHub: [@ciphersquid666](https://github.com/ciphersquid666)
 ```
 
 ---
-
-### **Suggerimenti finali**
-- Inserisci tutto il testo tra triple backticks (\`\`\`) solo se vuoi mostrarlo come esempio di README; altrimenti, copia e incolla direttamente questo Markdown nel tuo README.md.
-- Le tabelle renderizzano bene su GitHub e sono più chiare degli elenchi per le opzioni.
-- Se vuoi aggiungere un banner o badge, puoi inserire il markdown per un’immagine (es: ![banner](url)) subito sotto il titolo.
